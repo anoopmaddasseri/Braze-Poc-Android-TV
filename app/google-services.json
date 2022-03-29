@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417615286096",
+    "project_id": "braze-poc---android-tv",
+    "storage_bucket": "braze-poc---android-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417615286096:android:8d8d3adf3d70f8cc44a655",
+        "android_client_info": {
+          "package_name": "com.sample.brazepoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417615286096-inr1t7detqm65r1hvk0a52c321dh6pcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvXoA9wuXn4kTh8U0ZI2TM1iZKZf_e7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417615286096-inr1t7detqm65r1hvk0a52c321dh6pcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
