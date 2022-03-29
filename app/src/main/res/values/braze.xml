@@ -1,9 +1,9 @@
 <resources>
-    <string name="com_braze_api_key">800910ef-fccf-4375-84f2-754dc6bf0ec5</string>
-    <string name="com_braze_custom_endpoint" translatable="false">sdk.fra-01.braze.eu</string>
+    <string name="com_braze_api_key">BRAZE_API_KEY</string>
+    <string name="com_braze_custom_endpoint" translatable="false">BRAZE_END_POINT</string>
 
     <bool name="com_braze_firebase_cloud_messaging_registration_enabled" translatable="false">true</bool>
-    <string name="com_braze_firebase_cloud_messaging_sender_id" translatable="false">417615286096</string>
+    <string name="com_braze_firebase_cloud_messaging_sender_id" translatable="false">BRAZE_FCM_SENDER_ID</string>
 
 
     <bool name="com_braze_handle_push_deep_links_automatically">true</bool>
