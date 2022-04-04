@@ -6,8 +6,8 @@
 ## Features
 
 - ✨Push message✨
-- ✨In-app messaging✨
-- ✨Braze model IAM deeplink handle✨
+- ✨In-App Message & Survey✨
+- ✨In-App Deeplinking Dialogs✨
 
 ## O/P!
 
